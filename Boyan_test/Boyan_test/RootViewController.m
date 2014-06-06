@@ -141,7 +141,7 @@
     
     if(NO == [self readInfo])//若没有本地文件
     {
-        self.AllDataDic = [[NSMutableDictionary alloc]initWithObjectsAndKeys:@"姓名",@"请输入姓名",@"联系方式","请输入联系方式",@"工作年限",@"日期选择",nil];        
+        self.AllDataDic = [[NSMutableDictionary alloc]initWithObjectsAndKeys:@"姓名",@"请输入姓名",@"联系方式",@"请输入联系方式",@"工作年限",@"日期选择",nil];
     }
 }
 
