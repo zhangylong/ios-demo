@@ -371,6 +371,7 @@
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Paoma/AutoScrollLabel-Prefix.pch";
+				GCC_VERSION = "";
 				INFOPLIST_FILE = "Paoma/AutoScrollLabel-Info.plist";
 				PRODUCT_NAME = AutoScrollLabel;
 				WRAPPER_EXTENSION = app;
@@ -384,6 +385,7 @@
 				COPY_PHASE_STRIP = YES;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Paoma/AutoScrollLabel-Prefix.pch";
+				GCC_VERSION = "";
 				INFOPLIST_FILE = "Paoma/AutoScrollLabel-Info.plist";
 				PRODUCT_NAME = AutoScrollLabel;
 				VALIDATE_PRODUCT = YES;
